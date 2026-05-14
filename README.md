@@ -1,68 +1,35 @@
-<h1 align="center">Hi 👋, I'm Bruno Valenzuela</h1>
-<h3 align="center">A passionate Programmer Analyst Student from Chile 🇨🇱</h3>
+<h1 align="center">☿️ Bruno Valenzuela ☿️</h1>
+<h3 align="center">Future Software Engineer | Cybersecurity & Backend Developer</h3>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIyNjUyOGtxcWxuZHplNXQ5dHUwczBxNXJodWt0YXh6OHNndTc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NGp9QCXJcBPuU/giphy.gif" width="400" alt="Cool GIF">
-</p>
-
-## 📌 Table of Contents
-- [👨‍💻 About Me](#👨‍💻-about-me)
-- [🛠️ Skills & Tools](#🛠️-skills--tools)
-- [💼 Work Experience](#💼-work-experience)
-- [🚀 Featured Projects](#🚀-featured-projects)
-- [📈 GitHub Stats](#📈-github-stats)
-- [🌐 Connect with Me](#🌐-connect-with-me)
-- [⚡ Fun Fact](#⚡-fun-fact)
-
----
-
-## 👨‍💻 About Me
-I'm Bruno Valenzuela, a fourth-semester student in Programmer Analyst at Duoc UC, with a focus on web development, databases, and cybersecurity. I'm currently participating in an academic e-commerce project, where I'm learning to work with React, SQL, and tools like Git and Linux. I'm motivated to continue developing my technical skills and tackling challenges that help me grow as a programmer.
-
-- 🔭 I’m currently working on **An academic e-commerce project using React, SQL, Git, and Linux.**
-- 🌱 I’m currently learning **Web development, databases, cybersecurity, and agile methodologies.**
-- 👯 I’m looking to collaborate on **Open source projects related to web development or databases.**
-- 🤝 I’m looking for help with **Best practices in web development, databases, and agile methodologies.**
-- 💬 Ask me about **Python, Java, JavaScript, SQL, Bootstrap, Git/GitHub, Linux, or agile methodologies.**
-- 📫 How to reach me **Bruno.v2@protonmail.com**
-
----
-
-## 🛠️ Skills & Tools
-### 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> (Basic)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> (Basic)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> (Basic)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> (Basic)
-</p>
-
-### 🧰 Frameworks & Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> (Basic)
-</p>
-
-### 🗃️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> (Basic) <!-- Assuming SQL refers to general database skills like MySQL -->
-</p>
-
-### 🔧 Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git/GitHub" width="40" height="40"/> (Basic)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> (Basic)
-</p>
-
-### 📋 Methodologies
-- Agile Methodologies (Basic)
-
----
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brvnodev&label=Profile%20views&color=66cc00&style=flat" alt="brvnodev" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2c5Yjk1d2p2a3gzeWtoMXc4ZG4yc3V2b2FzYWo4emwybmRwNTlwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fn89Nrbh1bT9IP9xDP/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ---
-## ⚡ Fun Fact
-The center of our galaxy, the Milky Way, smells like rum and raspberries. Scientists discovered a molecule called *ethyl formate* in a massive cloud near the galactic core—it's the same compound that gives rum its flavor and raspberries their aroma.
-Yes, the universe has surprisingly good taste! 🌌🍇🥃
+
+**Analista Junior** enfocado en el desarrollo de software robusto y ciberseguridad defensiva. Con experiencia operativa en **SOC** y automatización de procesos con **Python**.
+
+- 🚀 Actualmente desarrollando **[Donatón Digital](https://github.com/BrvnoV)** (Spring Boot + Docker).
+- 🛡️ Especialista en **Blue Team** y automatización de seguridad.
+- 🐧 Entorno principal: **Linux Mint**.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="35" height="35"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
+</p>
+
+---
+
+### 🌐 Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bruno-valenzuela-fica)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Bruno.v2@protonmail.com)
+
+<br/>
