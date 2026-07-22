@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h1>Bruno Valenzuela</h1>
-    <h3>Desarrollador Backend & Entusiasta de Ciberseguridad (Red Team)</h3>
+  <h1>༻𝕭𝖗𝖚𝖓𝖔 𝖁𝖆𝖑𝖊𝖓𝖟𝖚𝖊𝖑𝖆༺</h1>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ1Mnkya2NtZDJvNmxuNHE5ZGswcGQ0bmdrb2NmY2NmdGdrd2w1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJRTYYYLwV6SRJXROU/giphy.gif" width="50%" alt="Banner animado">
   
   <p>
@@ -42,7 +41,7 @@ Estudiante de **Ingeniería en Informática**, enfocado en la construcción de *
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| **🤝 Donatón Platform** | Plataforma distribuida para gestión de ayuda humanitaria frente a catástrofes con arquitectura de microservicios y patrón BFF. | `Java 17` `Spring Boot` `WebFlux` `Docker` `Eureka` |
+| **🤝 Donatón** | Plataforma distribuida para gestión de ayuda humanitaria frente a catástrofes con arquitectura de microservicios y patrón BFF. | `Java 17` `Spring Boot` `WebFlux` `Docker` `Eureka` |
 | **🛡️ Sentinel OSINT** | Sistema de inteligencia digital y análisis de exposición de activos con generación automatizada de reportes ejecutivos. | `Java` `Spring Boot` `Three.js` `Thymeleaf` |
 | **🥕 Huerto Hogar (Android)** | Aplicación móvil nativa e-commerce con persistencia local y mapas sin dependencias propietarias. | `Kotlin` `Jetpack Compose` `Room DB` |
 
