@@ -4,8 +4,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ1Mnkya2NtZDJvNmxuNHE5ZGswcGQ0bmdrb2NmY2NmdGdrd2w1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJRTYYYLwV6SRJXROU/giphy.gif" width="50%" alt="Banner animado">
   
   <p>
-    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:tu-correo@dominio.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="www.linkedin.com/in/bruno-valenzuela-fica"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="Bruno.v2@protonmail.com"><img src="https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="Proton Mail"/></a>
   </p>
 </div>
 
