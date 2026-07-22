@@ -1,7 +1,8 @@
 <div align="center">
 
   <h1>Bruno Valenzuela</h1>
-  <h3>Desarrollador Backend & Entusiasta de Ciberseguridad (Red Team)</h3>
+    <h3>Desarrollador Backend & Entusiasta de Ciberseguridad (Red Team)</h3>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ1Mnkya2NtZDJvNmxuNHE5ZGswcGQ0bmdrb2NmY2NmdGdrd2w1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJRTYYYLwV6SRJXROU/giphy.gif" width="50%" alt="Banner animado">
   
   <p>
     <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
