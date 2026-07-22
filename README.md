@@ -1,56 +1,49 @@
 <div align="center">
 
-# Bruno Valenzuela
-
-### Backend Developer · Cybersecurity (Blue Team)
-
-`Java` · `Spring Boot` · `PostgreSQL` · `Python` · `Docker`
-
+  <h1>Bruno Valenzuela</h1>
+  <h3>Desarrollador Backend & Entusiasta de Ciberseguridad (Red Team)</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:tu-correo@dominio.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 </div>
 
-<br/>
+---
 
-Estudiante de Ingeniería en Informática, enfocado en **backend seguro**: construyo APIs con Spring Boot y las pienso también desde el lado defensivo, gracias a mi paso por un SOC automatizando detección de incidentes con Python.
+### 👨‍💻 Sobre Mí
 
-<br/>
+Estudiante de **Ingeniería en Informática**, enfocado en la construcción de **sistemas backend seguros y escalables**. Desarrollo APIs con **Java y Spring Boot**, diseñándolas con mentalidad defensiva gracias a mi experiencia en **SOC / Blue Team** automatizando la detección de incidentes mediante **Python**.
 
-## Ahora mismo
+* 🚀 **Actualmente construyendo:** Plataformas distribuidas con arquitectura de microservicios.
+* 🛡️ **Enfoque actual:** Secure Coding, DevSecOps y respuesta ante incidentes (Blue Team).
+* 📍 **Ubicación:** Santiago, Chile 🇨🇱
 
-```
-> building   Donatón Digital — plataforma de gestión humanitaria (Spring Boot + Docker)
-> exploring  Secure Coding & Blue Team practices
-> based in   Santiago, Chile 🇨🇱
-```
+---
 
-<br/>
+### 🛠️ Tech Stack & Herramientas
 
-## Stack
+#### **Backend & Arquitectura**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
+#### **Ciberseguridad & DevOps**
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="38" height="38"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="38" height="38"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="38" height="38"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="38" height="38"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="38" height="38"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="38" height="38"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="38" height="38"/>
+---
 
-</div>
+### 📌 Proyectos Destacados
 
-<br/>
-
-## Proyecto destacado
-
-**[Donatón Digital](https://github.com/BrvnoV/donaton-digital)** — Plataforma de gestión de donaciones con arquitectura de microservicios (Spring Boot, PostgreSQL, Docker Compose, Eureka + API Gateway).
-
-<br/>
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **🤝 Donatón Platform** | Plataforma distribuida para gestión de ayuda humanitaria frente a catástrofes con arquitectura de microservicios y patrón BFF. | `Java 17` `Spring Boot` `WebFlux` `Docker` `Eureka` |
+| **🛡️ Sentinel OSINT** | Sistema de inteligencia digital y análisis de exposición de activos con generación automatizada de reportes ejecutivos. | `Java` `Spring Boot` `Three.js` `Thymeleaf` |
+| **🥕 Huerto Hogar (Android)** | Aplicación móvil nativa e-commerce con persistencia local y mapas sin dependencias propietarias. | `Kotlin` `Jetpack Compose` `Room DB` |
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3864?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-valenzuela-fica)
-[![Email](https://img.shields.io/badge/Email-1F3864?style=flat-square&logo=protonmail&logoColor=white)](mailto:Bruno.v2@protonmail.com)
-
-<sub>☿ built with backend logic & a bit of paranoia</sub>
-
 </div>
